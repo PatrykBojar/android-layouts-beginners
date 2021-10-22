@@ -14,8 +14,18 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_act_5);
+        //setContentView(R.layout.activity_main_act_1);
+        //setContentView(R.layout.activity_main_act_2);
+        //setContentView(R.layout.activity_main_act_3);
+        //setContentView(R.layout.activity_main_act_4);
+        //setContentView(R.layout.activity_main_act_5);
+        setContentView(R.layout.activity_main_act_6);
+        //setContentView(R.layout.activity_main_act_7);
 
+
+        /**
+         * ACTIVIDAD 5
+         */
         // Obtenemos los spinners por su ID.
         Spinner spMarStatus = this.findViewById(R.id.marStatusSpinner);
         Spinner spCharge = this.findViewById(R.id.chargeSpinner);

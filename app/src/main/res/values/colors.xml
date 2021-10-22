@@ -9,4 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="terra_blue">#FF78D9EC</color>
     <color name="dark_blue">#FF073042</color>
+
+    <color name="ocean_blue">#FF264653</color>
+    <color name="sea_blue">#FF2a9d8f</color>
+    <color name="yellow">#FFe9c46a</color>
+    <color name="light_orange">#FFf4a261</color>
 </resources>
