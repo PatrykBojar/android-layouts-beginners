@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LayoutsB</string>
+    <string name="formName">Nombres</string>
+    <string name="formSurname">Apellidos</string>
+    <string name="formMarStatus">Estado civil</string>
+    <string name="formCharge">Cargo</string>
+    <!--
+    <string-array name="maritalStatus_array">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viudo</item>
+        <item>Matrimonio extraterrestrial</item>
+
+    </string-array>-->
+</resources>
